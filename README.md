@@ -50,8 +50,20 @@ Any annonymous User will be able to view different products avaialble for sale. 
 - Track order deliveries
 - View ratings and reviews
 - Generate reports
+- 
+# For Milk Service Provider Panel
+![Screenshot 2024-11-26 211355](https://github.com/user-attachments/assets/2a5e2c6f-a0dd-4878-af83-b80c8b11b20e)
+
+- Register and create a business profile
+- Add product inventory
+- Manage to the price of milk products
+- Manage order and deliveries
+- Manage Payments
+- Track performance of delivery executives
 
 ### For Delivery Executive Panel
+![Screenshot 2024-11-26 212845](https://github.com/user-attachments/assets/288ee3b5-131f-467e-8f22-749a22b988cb)
+
 - Create and manage profile
 - View orders assigned
 - View order details
