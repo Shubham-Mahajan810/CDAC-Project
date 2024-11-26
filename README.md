@@ -33,7 +33,9 @@ Any annonymous User will be able to view different products avaialble for sale. 
 - Set vacation days for no deliver
 
 ### For Admin Panel
-- Add product inventory
+![Screenshot 2024-11-26 200248](https://github.com/user-attachments/assets/b8338a49-1e28-43cf-82b8-022ba2656184)
+
+- Add product inventory!
 - Manage to the price of milk products
 - Manage order and deliveries
 - Manage payments
