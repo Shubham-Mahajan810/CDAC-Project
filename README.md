@@ -20,6 +20,8 @@ To provide a Web platform for online shopping of dairy products.
 Any annonymous User will be able to view different products avaialble for sale. Any User will be able select product to view from categories avaialble.Employee will be able to track and maintain stock of products available for sale. Employee will be able to raise requests for product updatation to Admin.
 
 ### For Consumer Panel
+![Screenshot 2024-11-26 205347](https://github.com/user-attachments/assets/abc6c3ca-5a7a-43a4-91ae-8834db7788f9)
+
 - Register and manage profile
 - Add address
 - Browse and sort through milk products
